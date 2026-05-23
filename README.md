@@ -41,7 +41,9 @@
 [![](https://api.moedog.org/room/@yh2233.github/svg?width=600&height=150&limit=20&theme=light&title=i2012@GitHub:%20~&fontSize=13)](https://api.moedog.org/room/@yh2233.github?title=Mutio%20Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
 #### Github Stats
-[![info](https://github-readme-stats.vercel.app/api?username=i2012&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![info](https://github-readme-stats.vercel.app/api?username=i2012&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![info](https://github-readme-stats-one-bice.vercel.app/api?username=i2012&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store)
 
 <!--
 #### Top Langs
